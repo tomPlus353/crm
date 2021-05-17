@@ -1,0 +1,11 @@
+body {
+	background: indigo;
+	color: white;
+	text-align: center;
+}
+
+div {
+	border-radius: 2;
+	border-width: 2px;
+	border-color: black;
+}
